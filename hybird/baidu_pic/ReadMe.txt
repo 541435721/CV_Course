@@ -1,0 +1,1 @@
+python get_baidu_pic.py [Keyword] [DownloadDir] [Pages=1]
